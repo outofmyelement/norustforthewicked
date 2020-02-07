@@ -1,5 +1,5 @@
 [package]
-name = "fahrenheit_converter"
+name = "fahrenheit"
 version = "0.1.0"
 authors = ["outofmyelement <mackenzie.cooper99@gmail.com>"]
 edition = "2018"
